@@ -1,0 +1,4 @@
+name: JSFP
+version: '${project.version}'
+main: com.jsfp.JSFP
+api-version: '1.20'
